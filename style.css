@@ -1,0 +1,25 @@
+body {
+  background: white;
+  color: white;
+  text-align: center;
+}
+h1{
+  color: black;
+  font-family: poppins;
+}
+img{
+}
+h2{
+  color: black;
+  font-family: poppins;
+}
+.avia{
+  display: flex;
+  justify-content: center;
+  height: 50px;
+}
+.tp{
+  display: flex;
+  justify-content: center;
+  height: 80px;
+}
