@@ -7,7 +7,10 @@ h1{
   color: black;
   font-family: poppins;
 }
-img{
+.main{
+  display: flex;
+  justify-content: center;
+  height: 80px;
 }
 h2{
   color: black;
