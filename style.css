@@ -26,3 +26,7 @@ h2{
   justify-content: center;
   height: 80px;
 }
+a.refund{
+  color: black;
+  font-family: poppins;
+}
